@@ -1,0 +1,5 @@
+version: "3"
+services:
+  multiagent:
+    build: .
+    container_name: krr_multiagent

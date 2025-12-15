@@ -1,0 +1,6 @@
+--- Scenario: complex_query ---
+
+[Manager] Received query: Research transformer architectures and analyze efficiency
+Query: Research transformer architectures and analyze efficiency
+Response: Analysis Summary: Self-attention mechanism | Parallel computation | High memory usage. Efficiency vs Accuracy trade-offs identified.
+--------------------------------------------------

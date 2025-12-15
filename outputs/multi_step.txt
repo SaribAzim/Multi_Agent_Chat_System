@@ -1,0 +1,6 @@
+--- Scenario: multi_step ---
+
+[Manager] Received query: Research reinforcement learning and analyze exploration vs exploitation
+Query: Research reinforcement learning and analyze exploration vs exploitation
+Response: Analysis Summary: Policy optimization | Value-based learning | Exploration vs exploitation. Efficiency vs Accuracy trade-offs identified.
+--------------------------------------------------

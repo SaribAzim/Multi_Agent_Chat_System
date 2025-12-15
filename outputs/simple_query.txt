@@ -1,0 +1,6 @@
+--- Scenario: simple_query ---
+
+[Manager] Received query: What are the main types of neural networks?
+Query: What are the main types of neural networks?
+Response: ['Neural Networks are a foundational component of modern artificial intelligence and machine learning, here are some of its types', 'Feedforward Neural Networks', 'Convolutional Neural Networks', 'Recurrent Neural Networks', 'Transformers']
+--------------------------------------------------

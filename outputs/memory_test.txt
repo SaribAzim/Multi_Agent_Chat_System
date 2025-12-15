@@ -1,0 +1,6 @@
+--- Scenario: memory_test ---
+
+[Manager] Received query: What did we discuss about neural networks earlier?
+Query: What did we discuss about neural networks earlier?
+Response: ['Neural Networks are a foundational component of modern artificial intelligence and machine learning, here are some of its types, Feedforward Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks, Transformers']
+--------------------------------------------------

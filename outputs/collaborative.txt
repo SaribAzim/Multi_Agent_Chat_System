@@ -1,0 +1,14 @@
+--- Scenario: collaborative ---
+
+[Manager] Received query: Find information about transformers
+Query: Find information about transformers
+Response: ['Self-attention mechanism', 'Parallel computation', 'High memory usage']
+--------------------------------------------------
+[Manager] Received query: Analyze efficiency of transformers
+Query: Analyze efficiency of transformers
+Response: Analysis Summary: Self-attention mechanism | Parallel computation | High memory usage. Efficiency vs Accuracy trade-offs identified.
+--------------------------------------------------
+[Manager] Received query: What did we learn about transformers earlier?
+Query: What did we learn about transformers earlier?
+Response: ['Self-attention mechanism', 'Parallel computation', 'High memory usage']
+--------------------------------------------------
